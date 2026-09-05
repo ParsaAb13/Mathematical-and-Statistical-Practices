@@ -22,7 +22,7 @@ Descriptive statistics are essential for understanding the underlying structure 
 
 3. **Distribution Shape & Outlier Detection:**
    * **Skewness:** Measure of asymmetry of the probability distribution.
-   * **Histogram and Scatterplot:** * **Histogram and Scatter Plot:** Visualizations used to explore data distributions and relationship between variables.
+   * **Histogram and Scatter Plot:** Visualizations used to explore data distributions and relationship between variables.
    * **Boxplot Analysis :** Techniques used to identify statistical outliers.
 
 ---
